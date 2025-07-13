@@ -88,7 +88,7 @@ Power BI visuals used:
 ---
 
 Screenshot 1:-
-![image alt]()
+![image alt](https://github.com/Vikas-Sajwan/Human_Resources_Analysis-Excel-SQL-Power-BI/blob/eb6193fb91a99f340afca900a42441ea027f1d27/Screenshot%201.png)
 
 Screenshot 2:-
 ![image alt]()
