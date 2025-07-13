@@ -94,6 +94,6 @@ Screenshot 2:-
 ![image alt](https://github.com/Vikas-Sajwan/Human_Resources_Analysis-Excel-SQL-Power-BI/blob/fbe67fe254011b93116f3a4df516a9e27717e279/Screenshot%202.png)
 
 Screenshot 3:-
-![image alt]()
+![image alt](https://github.com/Vikas-Sajwan/Human_Resources_Analysis-Excel-SQL-Power-BI/blob/ea8d0f8b841bb5a5066100fc10040e73a62117fe/Screenshot%203.png)
 
 
